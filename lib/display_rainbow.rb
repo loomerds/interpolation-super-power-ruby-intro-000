@@ -6,5 +6,5 @@ def display_rainbow(arr)
   print "G: #{arr[3]}, "
   print "B: #{arr[4]}, "
   print "I: #{arr[5]}, "
-  print "V: #{arr[6]}"
+  puts "V: #{arr[6]}"
 end
